@@ -1,0 +1,29 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "1.tmx": {
+            "scale": 1.1677083333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 349.40231935771635,
+                "y": 160.14272970561998
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/yshe1/Downloads/pygame/MAP1",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+    ],
+    "project": "M1.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "activeFile": "C:/Users/yshe1/Downloads/Map3/m3.tsx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/yshe1/Downloads/Map3/m3.tmx": {
+            "scale": 0.5838541666666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 479.5718108831401,
+                "y": 320.28545941123997
+            }
+        },
+        "C:/Users/yshe1/Downloads/Map3/m3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "m3.tmx": {
+            "scale": 0.5838541666666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 479.5718108831401,
+                "y": 320.28545941123997
+            }
+        },
+        "m3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/yshe1/Downloads/Map3",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "m3.tmx",
+        "m3.tsx",
+        "C:/Users/yshe1/Downloads/Map3/m3.tmx",
+        "C:/Users/yshe1/Downloads/Map3/m3.tsx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "m3.tmx",
+        "m3.tsx",
+        "C:/Users/yshe1/Downloads/Map3/m3.tmx",
+        "C:/Users/yshe1/Downloads/Map3/m3.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
